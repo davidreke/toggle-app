@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toggle-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/toggle-app/static/js/main.0f48682e.chunk.js",
+    "main.js.map": "/toggle-app/static/js/main.0f48682e.chunk.js.map",
+    "runtime-main.js": "/toggle-app/static/js/runtime-main.abf993c5.js",
+    "runtime-main.js.map": "/toggle-app/static/js/runtime-main.abf993c5.js.map",
+    "static/js/2.5a8c08bc.chunk.js": "/toggle-app/static/js/2.5a8c08bc.chunk.js",
+    "static/js/2.5a8c08bc.chunk.js.map": "/toggle-app/static/js/2.5a8c08bc.chunk.js.map",
+    "index.html": "/toggle-app/index.html",
+    "precache-manifest.af6b9533bd7dd78b956afa2e54c5ec7d.js": "/toggle-app/precache-manifest.af6b9533bd7dd78b956afa2e54c5ec7d.js",
+    "service-worker.js": "/toggle-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/toggle-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5a8c08bc.chunk.js.LICENSE.txt": "/toggle-app/static/js/2.5a8c08bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/toggle-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abf993c5.js",
+    "static/js/2.5a8c08bc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0f48682e.chunk.js"
+  ]
+}
